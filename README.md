@@ -1,4 +1,4 @@
-# Trabalho-de-Java
+# Programação Orientada a Objeto em Java
 
 Projeto Java feito de acordo com o PDF
  "Programação Orientada à Objetos em Java Aula 9 – Banco de Dados em Java Atividade Autônoma Supervisionada"
